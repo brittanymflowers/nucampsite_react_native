@@ -279,7 +279,7 @@ const Login = createBottomTabNavigator(
 const styles = StyleSheet.create({
     container: {
         justifyContent: 'center',
-        margin: 10
+        margin: 5
     },
     formIcon: {
         marginRight: 10
